@@ -11,11 +11,11 @@
     "editor.js",
     "editorjs"
   ],
-  "author": "Tei Yuan Wei",
+  "author": "Alexey Lysenko (Based on Tei Yuan Wei editorjs-youtube-embed)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuanwei92/editorjs-youtube-embed"
+    "url": "https://github.com/axelys/editorjs-youtube-embed"
   },
   "babel": {
     "presets": [

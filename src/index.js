@@ -1,4 +1,4 @@
-import './index.css';
+import './main.css';
 import ToolboxIcon from './svg/toolbox.svg';
 
 /**
